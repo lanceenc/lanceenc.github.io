@@ -1,0 +1,169 @@
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="hoodbaby.com" resolutions="1x,2x" timestamp="1615674997571">
+  <folder name="css">
+    <file name="site_global.css" crc="267376268"/>
+    <file name="tour.css" crc="3959079083" ref="tour"/>
+    <file name="merch--off-.css" crc="4183136137" ref="merch--off-"/>
+    <file name="merch.css" crc="121754090" ref="merch"/>
+    <file name="index.css" crc="4026641912" ref="index"/>
+    <file name="subscribe.css" crc="498304299" ref="subscribe"/>
+  </folder>
+  <folder name="fonts">
+    <file name="suisseintl-black.woff" crc="219030138"/>
+    <file name="suisseintl-black.eot" crc="79378910"/>
+    <file name="suisseintl-black.svg" crc="4211053677"/>
+    <file name="suisseintl-medium.woff" crc="3778860567"/>
+    <file name="suisseintl-medium.eot" crc="264289310"/>
+    <file name="suisseintl-medium.svg" crc="26129473"/>
+    <file name="nhaasgrotesktxpro-65md.woff" crc="3926110708"/>
+    <file name="nhaasgrotesktxpro-65md.eot" crc="3873020419"/>
+    <file name="nhaasgrotesktxpro-65md.svg" crc="461182985"/>
+    <file name="nhaasgrotesktxpro-75bd.woff" crc="495051091"/>
+    <file name="nhaasgrotesktxpro-75bd.eot" crc="4271181427"/>
+    <file name="nhaasgrotesktxpro-75bd.svg" crc="411670944"/>
+    <file name="suisseintl-bold.woff" crc="61006620"/>
+    <file name="suisseintl-bold.eot" crc="460541924"/>
+    <file name="suisseintl-bold.svg" crc="4294814706"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:phone>tour:phone>merch:phone>subscribe:phone>merch--off-:index:tour:merch:subscribe:merch--off-"/>
+    <file name="museutils.js" crc="3939489907" ref="phone>index:phone>tour:phone>merch:phone>subscribe:phone>merch--off-:index:tour:merch:subscribe:merch--off-"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:phone>tour:phone>merch:phone>subscribe:phone>merch--off-:index:tour:merch:subscribe:merch--off-"/>
+    <file name="museconfig.js" crc="3936894949" ref="phone>index:phone>tour:phone>merch:phone>subscribe:phone>merch--off-:index:tour:merch:subscribe:merch--off-"/>
+    <file name="jquery.watch.js" crc="522499760" ref="phone>index:phone>tour:phone>merch:phone>subscribe:phone>merch--off-:index:tour:merch:subscribe:merch--off-"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="85124417" ref="phone>index:phone>tour:phone>merch:phone>subscribe:phone>merch--off-:index:tour:merch:subscribe:merch--off-"/>
+    <file name="jquery.scrolleffects.js" crc="312044820" ref="phone>index:phone>tour:phone>merch:phone>subscribe:phone>merch--off-"/>
+    <file name="require.js" crc="4177726516" ref="phone>index:phone>tour:phone>merch:phone>subscribe:phone>merch--off-:index:tour:merch:subscribe:merch--off-"/>
+  </folder>
+  <folder name="images">
+    <file name="favicon.ico" crc="323460016" ref="phone>index"/>
+    <file name="hood_baby_mobile-final.png" crc="391206069" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hood_baby_mobile-final_2x.png" crc="4188649391" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="youtube mobile.svg" crc="4043775898" ref="phone>index"/>
+    <file name="youtube mobile_poster_u50617.png" crc="3947782582" ref="phone>index"/>
+    <file name="instagram mobile.svg" crc="3907021035" ref="phone>index"/>
+    <file name="instagram mobile_poster_u50593.png" crc="3770111483" ref="phone>index"/>
+    <file name="twitter mobile.svg" crc="380487518" ref="phone>index"/>
+    <file name="twitter mobile_poster_u50601.png" crc="4082981957" ref="phone>index"/>
+    <file name="subscribe mobile.svg" crc="535571277" ref="phone>index"/>
+    <file name="subscribe mobile_poster_u50585.png" crc="65217767" ref="phone>index"/>
+    <file name="tour mobile.svg" crc="4186322247" ref="phone>index"/>
+    <file name="tour mobile_poster_u50625.png" crc="3873272699" ref="phone>index"/>
+    <file name="merch mobile.svg" crc="3908677827" ref="phone>index"/>
+    <file name="merch mobile_poster_u50609.png" crc="3915018954" ref="phone>index"/>
+    <file name="all-over-mobile.png" crc="529839202" ref="phone>index:phone>merch">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="all-over-mobile_2x.png" crc="4184820357" ref="phone>index:phone>merch">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_1066-u55882-fr.jpg" crc="518367603" ref="phone>index"/>
+    <file name="img_1066-u55882-fr_2x.jpg" crc="4014469994" ref="phone>index"/>
+    <file name="down arrow.svg" crc="178004216" ref="phone>index:phone>tour:phone>merch:index:tour:merch"/>
+    <file name="down arrow_poster_u52214.png" crc="3889477842" ref="phone>index:phone>tour:phone>merch:index:tour:merch"/>
+    <file name="tour white.svg" crc="4144984179" ref="phone>index:phone>tour"/>
+    <file name="tour white_poster_u52287.png" crc="44466957" ref="phone>index:phone>tour"/>
+    <file name="merch-mobile.png" crc="4254298881" ref="phone>index:phone>merch:phone>merch--off-">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="merch-mobile_2x.png" crc="126846681" ref="phone>index:phone>merch:phone>merch--off-">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="merch2.svg" crc="4192618513" ref="phone>index:phone>merch:phone>merch--off-"/>
+    <file name="merch2_poster_u51080.png" crc="278499872" ref="phone>index:phone>merch:phone>merch--off-"/>
+    <file name="lil gotit newsletter.svg" crc="3852053951" ref="phone>index:phone>subscribe:index:subscribe"/>
+    <file name="lil gotit newsletter_poster_u51227.png" crc="165559034" ref="phone>index:phone>subscribe:index:subscribe"/>
+    <file name="spotify.svg" crc="84849404" ref="phone>index:phone>tour:phone>merch:phone>subscribe:phone>merch--off-:index:tour:merch:subscribe:merch--off-"/>
+    <file name="spotify_poster_u49120.png" crc="4019973767" ref="phone>index:phone>tour:phone>merch:phone>subscribe:phone>merch--off-:index:tour:merch:subscribe:merch--off-"/>
+    <file name="spotify red.svg" crc="115678519" ref="phone>index:phone>tour:phone>merch:phone>subscribe:phone>merch--off-:index:tour:merch:subscribe:merch--off-"/>
+    <file name="spotify red_poster_u51707.png" crc="4153301754" ref="phone>index:phone>tour:phone>merch:phone>subscribe:phone>merch--off-:index:tour:merch:subscribe:merch--off-"/>
+    <file name="apple.svg" crc="3813247114" ref="phone>index:phone>tour:phone>merch:phone>subscribe:phone>merch--off-:index:tour:merch:subscribe:merch--off-"/>
+    <file name="apple_poster_u49152.png" crc="393121863" ref="phone>index:phone>tour:phone>merch:phone>subscribe:phone>merch--off-:index:tour:merch:subscribe:merch--off-"/>
+    <file name="apple red.svg" crc="4233148968" ref="phone>index:phone>tour:phone>merch:phone>subscribe:phone>merch--off-:index:tour:merch:subscribe:merch--off-"/>
+    <file name="apple red_poster_u51699.png" crc="4105952964" ref="phone>index:phone>tour:phone>merch:phone>subscribe:phone>merch--off-:index:tour:merch:subscribe:merch--off-"/>
+    <file name="soundcloud.svg" crc="179264998" ref="phone>index:phone>tour:phone>merch:phone>subscribe:phone>merch--off-:index:tour:merch:subscribe:merch--off-"/>
+    <file name="soundcloud_poster_u49160.png" crc="451776728" ref="phone>index:phone>tour:phone>merch:phone>subscribe:phone>merch--off-:index:tour:merch:subscribe:merch--off-"/>
+    <file name="soundcloud red.svg" crc="359224488" ref="phone>index:phone>tour:phone>merch:phone>subscribe:phone>merch--off-:index:tour:merch:subscribe:merch--off-"/>
+    <file name="soundcloud red_poster_u51691.png" crc="4217333578" ref="phone>index:phone>tour:phone>merch:phone>subscribe:phone>merch--off-:index:tour:merch:subscribe:merch--off-"/>
+    <file name="tidal.svg" crc="324432265" ref="phone>index:phone>tour:phone>merch:phone>subscribe:phone>merch--off-:index:tour:merch:subscribe:merch--off-"/>
+    <file name="tidal_poster_u49168.png" crc="3807734191" ref="phone>index:phone>tour:phone>merch:phone>subscribe:phone>merch--off-:index:tour:merch:subscribe:merch--off-"/>
+    <file name="tidal red.svg" crc="4005090967" ref="phone>index:phone>tour:phone>merch:phone>subscribe:phone>merch--off-:index:tour:merch:subscribe:merch--off-"/>
+    <file name="tidal red_poster_u51683.png" crc="4096211841" ref="phone>index:phone>tour:phone>merch:phone>subscribe:phone>merch--off-:index:tour:merch:subscribe:merch--off-"/>
+    <file name="powered by white.svg" crc="3768134738" ref="phone>index:phone>tour:phone>merch:phone>subscribe:phone>merch--off-:index:tour:merch:subscribe:merch--off-"/>
+    <file name="powered by white_poster_u48947.png" crc="440868041" ref="phone>index:phone>tour:phone>merch:phone>subscribe:phone>merch--off-:index:tour:merch:subscribe:merch--off-"/>
+    <file name="facebook.svg" crc="3877887909" ref="phone>index:phone>tour:phone>merch:phone>subscribe:phone>merch--off-:index:tour:merch:subscribe:merch--off-"/>
+    <file name="facebook_poster_u51421.png" crc="3971399974" ref="phone>index:phone>tour:phone>merch:phone>subscribe:phone>merch--off-:index:tour:merch:subscribe:merch--off-"/>
+    <file name="facebook red.svg" crc="9488004" ref="phone>index:phone>tour:phone>merch:phone>subscribe:phone>merch--off-:index:tour:merch:subscribe:merch--off-"/>
+    <file name="facebook red_poster_u51675.png" crc="4002560996" ref="phone>index:phone>tour:phone>merch:phone>subscribe:phone>merch--off-:index:tour:merch:subscribe:merch--off-"/>
+    <file name="lil gotit logo white.svg" crc="160243122" ref="phone>index:phone>tour:phone>merch:phone>subscribe:phone>merch--off-:index:tour:merch:subscribe:merch--off-"/>
+    <file name="lil gotit logo white_poster_u51040.png" crc="79026057" ref="phone>index:phone>tour:phone>merch:phone>subscribe:phone>merch--off-:index:tour:merch:subscribe:merch--off-"/>
+    <file name="hood_baby_desktop-the-last.png" crc="392733260" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hood_baby_desktop-the-last_2x.png" crc="3885429886" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="all over.png" crc="145736823" ref="index:merch">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="all over_2x.png" crc="298721370" ref="index:merch">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_1066.jpg" crc="4143410204" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_1066_2x.jpg" crc="4199776876" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="tour white desktop.svg" crc="3925554244" ref="index:tour"/>
+    <file name="tour white desktop_poster_u52295.png" crc="298031086" ref="index:tour"/>
+    <file name="youtube.svg" crc="4215685647" ref="index"/>
+    <file name="youtube_poster_u50505.png" crc="260001785" ref="index"/>
+    <file name="merch.svg" crc="4077057382" ref="index"/>
+    <file name="merch_poster_u50513.png" crc="46532694" ref="index"/>
+    <file name="tour.svg" crc="52586792" ref="index"/>
+    <file name="tour_poster_u50545.png" crc="30881069" ref="index"/>
+    <file name="subscribe.svg" crc="3967130595" ref="index"/>
+    <file name="subscribe_poster_u50553.png" crc="226175240" ref="index"/>
+    <file name="twitter.svg" crc="472566588" ref="index"/>
+    <file name="twitter_poster_u50521.png" crc="3825853781" ref="index"/>
+    <file name="instagram.svg" crc="3898229689" ref="index"/>
+    <file name="instagram_poster_u50529.png" crc="4005335270" ref="index"/>
+    <file name="merch-bg.png" crc="4027216326" ref="index:merch:merch--off-">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="merch-bg_2x.png" crc="4038750995" ref="index:merch:merch--off-">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="merch1.svg" crc="511207264" ref="index:merch:merch--off-"/>
+    <file name="merch1_poster_u50569.png" crc="3975703694" ref="index:merch:merch--off-"/>
+    <file name="youtube white.svg" crc="3761780458" ref="index:tour:merch:subscribe:merch--off-"/>
+    <file name="youtube white_poster_u49084.png" crc="3835351474" ref="index:tour:merch:subscribe:merch--off-"/>
+    <file name="instagram white.svg" crc="200953583" ref="index:tour:merch:subscribe:merch--off-"/>
+    <file name="instagram white_poster_u49098.png" crc="3833590763" ref="index:tour:merch:subscribe:merch--off-"/>
+    <file name="twitter white.svg" crc="3865479459" ref="index:tour:merch:subscribe:merch--off-"/>
+    <file name="twitter white_poster_u49109.png" crc="220782823" ref="index:tour:merch:subscribe:merch--off-"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="merch--off-.css" crc="280533822" ref="phone>merch--off-"/>
+      <file name="subscribe.css" crc="317553905" ref="phone>subscribe"/>
+      <file name="tour.css" crc="4093992993" ref="phone>tour"/>
+      <file name="index.css" crc="4152032737" ref="phone>index"/>
+      <file name="merch.css" crc="4154625498" ref="phone>merch"/>
+    </folder>
+    <file name="index.html" crc="4024360772" seo="true" mt="1597961041203" redirect="true"/>
+    <file name="tour.html" crc="3859989368" seo="true" mt="1574629875904" redirect="true"/>
+    <file name="merch.html" crc="431472597" seo="true" mt="1597961163282" redirect="true"/>
+    <file name="subscribe.html" crc="4193374094" seo="true" mt="1574629856594" redirect="true"/>
+    <file name="merch--off-.html" crc="297635913" seo="true" mt="1574629850420" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="3882140482" seo="true" mt="1597960802580" redirect="true"/>
+  <file name="tour.html" crc="4262443297" seo="true" mt="1574629621245" redirect="true"/>
+  <file name="merch.html" crc="339481171" seo="true" mt="1597960895834" redirect="true"/>
+  <file name="subscribe.html" crc="101402853" seo="true" mt="1574629648837" redirect="true"/>
+  <file name="merch--off-.html" crc="508007832" seo="true" mt="1574629633480" redirect="true"/>
+</manifest>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://hoodbaby.com/index.html</loc>
+    <lastmod>2020-08-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://hoodbaby.com/phone/index.html"/>
+  </url>
+  <url>
+    <loc>http://hoodbaby.com/tour.html</loc>
+    <lastmod>2019-11-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://hoodbaby.com/phone/tour.html"/>
+  </url>
+  <url>
+    <loc>http://hoodbaby.com/merch.html</loc>
+    <lastmod>2020-08-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://hoodbaby.com/phone/merch.html"/>
+  </url>
+  <url>
+    <loc>http://hoodbaby.com/subscribe.html</loc>
+    <lastmod>2019-11-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://hoodbaby.com/phone/subscribe.html"/>
+  </url>
+  <url>
+    <loc>http://hoodbaby.com/merch--off-.html</loc>
+    <lastmod>2019-11-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://hoodbaby.com/phone/merch--off-.html"/>
+  </url>
+</urlset>
